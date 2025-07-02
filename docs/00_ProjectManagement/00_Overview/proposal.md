@@ -1,4 +1,4 @@
-# TechBridge提案書
+# Cuora提案書
 
 ## 1. 提案の背景
 
